@@ -19,7 +19,7 @@ Recipe world is a sleek and responsive recipe search application built with *Rea
 
 ### Potrait UI
 
-![Potrait Screen](./Random.png)
+![Potrait Screen](./random.png)
 ![Potrait Screen 2](./footer.png)
 
 
