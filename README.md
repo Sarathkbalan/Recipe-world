@@ -30,7 +30,7 @@ Frontend:* React, CSS
 
 ### 1. Clone the repo
 bash
-git clone https://github.com/your-username/recipe-hub.git
+git clone git@github.com:Sarathkbalan/Recipe-world.git
 cd recipe-hub
 
 ### 2. Install dependencies
