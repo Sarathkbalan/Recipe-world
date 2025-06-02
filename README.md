@@ -45,4 +45,4 @@ npm run dev
 
 ## 🌐 Live Demo 
 
-https://youtu.be/K92LXLDjxL0
+[https://youtu.be/K92LXLDjxL0](https://youtu.be/E7Mtkq3ea5w?si=zTHgcWNA2CUbExDX)
