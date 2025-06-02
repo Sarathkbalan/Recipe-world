@@ -11,7 +11,7 @@ Recipe world is a sleek and responsive recipe search application built with *Rea
 - 💡 Built using *React, **Tailwind CSS, and **custom CSS*
 
 ## 🖼️ Screenshots
-### HomePage
+### splash Screen
 ![Splash Screen](./splashscreen.png)
 
 ### HomePage
@@ -19,7 +19,7 @@ Recipe world is a sleek and responsive recipe search application built with *Rea
 
 ### Potrait UI
 
-![Potrait Screen](./Randonrecipes.png)
+![Potrait Screen](./Randon_recipes.png)
 ![Potrait Screen 2](./footer.png)
 
 
